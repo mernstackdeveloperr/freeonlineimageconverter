@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freeonlineimageconverter.vercel.app/sitemap.xml
